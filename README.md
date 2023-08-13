@@ -1,3 +1,3 @@
 alx simple_shell project repository
-by Max and Sammy.
+by Brian and Mark.
 
